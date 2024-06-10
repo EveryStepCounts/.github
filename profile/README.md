@@ -1,1 +1,2 @@
-EveryStepCounts Development Team
+# EveryStepCounts Development Team
+Chen Guoyi, Mu Zhaoyu
