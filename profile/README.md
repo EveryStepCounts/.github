@@ -3,7 +3,13 @@
 
 **EveryStepCounts** is a sports tracking platform developed by the NUS Night Runners Team. It records every step you take with us because **every step counts**!
 
-Development Team:
+# Website
+https://nightrunner.org
+
+# Development Team
 
 - Chen Guoyi@comp.nus.edu.sg
 - Mu Zhaoyu@comp.nus.edu.sg
+
+# Welcome to join NUS Night Runners!
+https://blog.nus.edu.sg/nightrunners/
